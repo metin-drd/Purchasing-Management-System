@@ -1,0 +1,5 @@
+C:\Users\Win10\documents\visual studio 2013\Projects\Metin\Metin\bin\Metin.dll.config
+C:\Users\Win10\documents\visual studio 2013\Projects\Metin\Metin\bin\Metin.dll
+C:\Users\Win10\documents\visual studio 2013\Projects\Metin\Metin\bin\Metin.pdb
+C:\Users\Win10\documents\visual studio 2013\Projects\Metin\Metin\obj\Release\Metin.dll
+C:\Users\Win10\documents\visual studio 2013\Projects\Metin\Metin\obj\Release\Metin.pdb
